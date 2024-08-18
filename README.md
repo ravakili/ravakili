@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramin Vakili</h1>
-<h3 align="center">PhD Student of computer Science</h3>
+<h3 align="center">PhD Student of computer Science with expertise in AI</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on [DrTeb](https://github.com/ravakili/DrTeb)
