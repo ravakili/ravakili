@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [DrTeb](https://github.com/ravakili/DrTeb)
 
-- 🌱 I’m currently learning **GoLan**
+- 🌱 I’m currently learning **GoLang**
 
 - 💬 Ask me about **AI, Machine Learning, Neural Networks**
 
